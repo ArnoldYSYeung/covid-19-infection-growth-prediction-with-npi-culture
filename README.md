@@ -18,4 +18,4 @@ Running `Experiment.ipynb` will generate the tables and figures shown in the pub
 - `times_new_roman`: `True` generates figures with the Times New Roman font. `False` generates figures with the default font.
 
 ## Acknowledgements
-This work is co-authored by Arnold YS Yeung, Francois Roewer-Despres, Laura Rosella, and Frank Rudzicz.
+This work is co-authored by <a href='https://github.com/arnoldysyeung'>Arnold YS Yeung</a>, <a href='https://github.com/francois-rd'>Francois Roewer-Despres</a>, Laura Rosella, and Frank Rudzicz.
